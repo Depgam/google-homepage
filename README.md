@@ -1,0 +1,1 @@
+This current project is abour recreating the GOOGLE homepage in order to solidify my learning of HTML and CSS. There will be no usage of bootstrap.
