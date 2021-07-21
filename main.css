@@ -4,6 +4,10 @@
     margin: 13px;
 }
 
+.qol {
+    padding-top: 2px;
+}
+
 #svg-icon {
     height: 20px;
     position: relative;
@@ -51,7 +55,6 @@
     align-items: center;
     margin-right: 50px;
 }
-
 .mid-container {
     width: 600px;
 }
@@ -109,10 +112,10 @@
     filter: invert(67%) sepia(3%) saturate(222%) hue-rotate(183deg) brightness(92%) contrast(96%);
   }
 
-  footer {
+footer {
     display: flex;
     justify-content: space-between;
     margin-top: 463px;
     padding: 0px 20px 0px 20px;
-    background-color: #dfe1e5;
+    background-color: #dadce0;
   }
