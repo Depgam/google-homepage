@@ -64,6 +64,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 150px;
+    margin-bottom: auto;
 }
 
 #site-search {
@@ -115,7 +116,21 @@
 footer {
     display: flex;
     justify-content: space-between;
-    margin-top: 463px;
+    margin-top: 0px;
     padding: 0px 20px 0px 20px;
     background-color: #dadce0;
   }
+
+.container {
+    margin-top: auto;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.flex-container {
+    flex: 1;
+}
