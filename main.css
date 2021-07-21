@@ -1,7 +1,7 @@
 .top {
     display: flex;
     justify-content: space-between;
-    margin: 13px;
+    margin: 5px 18px 0px 18px;
 }
 
 .qol {
@@ -40,7 +40,7 @@
 }
 
 #sign-in:hover {
-    background: #1a53e0;
+    background: #2b7de9;
 }
 
 .center {
@@ -63,8 +63,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 150px;
-    margin-bottom: auto;
+    align-self: center;
+    margin-top: 190px;
 }
 
 #site-search {
@@ -118,8 +118,13 @@ footer {
     justify-content: space-between;
     margin-top: 0px;
     padding: 0px 20px 0px 20px;
-    background-color: #dadce0;
+    background-color: #f2f2f2;
   }
+
+.container * {
+    color: gray;
+    font-size: 14px;
+}
 
 .container {
     margin-top: auto;
@@ -129,6 +134,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    height: 100%;
 }
 
 .flex-container {
