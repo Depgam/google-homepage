@@ -96,3 +96,11 @@
     width: 20px;
     filter: invert(67%) sepia(3%) saturate(222%) hue-rotate(183deg) brightness(92%) contrast(96%);
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 463px;
+    padding: 0px 20px 0px 20px;
+    background-color: #dfe1e5;
+  }
