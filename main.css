@@ -35,3 +35,26 @@
     margin-top: 6px;
     align-items: center;
 }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-align {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.mid-container {
+    width: 375px;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
