@@ -1,0 +1,37 @@
+.top {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#svg-icon {
+    height: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.btn {
+    background: none;
+	color: black;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+}
+
+#sign-in {
+    background: #1a73e8;
+	color: white;
+	padding: 10px 24px 10px 24px;
+	cursor: pointer;
+    border-radius: 3px;
+    border: thin;
+    margin-left: 10px;
+    font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+
+.top-holder {
+    margin-right: 15px;
+    margin-top: 6px;
+    align-items: center;
+}
